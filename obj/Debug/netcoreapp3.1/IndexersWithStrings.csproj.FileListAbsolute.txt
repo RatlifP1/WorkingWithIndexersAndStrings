@@ -1,0 +1,13 @@
+C:\Users\kirkv\source\repos\IndexersWithStrings\obj\Debug\netcoreapp3.1\IndexersWithStrings.csprojAssemblyReference.cache
+C:\Users\kirkv\source\repos\IndexersWithStrings\obj\Debug\netcoreapp3.1\IndexersWithStrings.AssemblyInfoInputs.cache
+C:\Users\kirkv\source\repos\IndexersWithStrings\obj\Debug\netcoreapp3.1\IndexersWithStrings.AssemblyInfo.cs
+C:\Users\kirkv\source\repos\IndexersWithStrings\obj\Debug\netcoreapp3.1\IndexersWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\kirkv\source\repos\IndexersWithStrings\bin\Debug\netcoreapp3.1\IndexersWithStrings.exe
+C:\Users\kirkv\source\repos\IndexersWithStrings\bin\Debug\netcoreapp3.1\IndexersWithStrings.deps.json
+C:\Users\kirkv\source\repos\IndexersWithStrings\bin\Debug\netcoreapp3.1\IndexersWithStrings.runtimeconfig.json
+C:\Users\kirkv\source\repos\IndexersWithStrings\bin\Debug\netcoreapp3.1\IndexersWithStrings.runtimeconfig.dev.json
+C:\Users\kirkv\source\repos\IndexersWithStrings\bin\Debug\netcoreapp3.1\IndexersWithStrings.dll
+C:\Users\kirkv\source\repos\IndexersWithStrings\bin\Debug\netcoreapp3.1\IndexersWithStrings.pdb
+C:\Users\kirkv\source\repos\IndexersWithStrings\obj\Debug\netcoreapp3.1\IndexersWithStrings.dll
+C:\Users\kirkv\source\repos\IndexersWithStrings\obj\Debug\netcoreapp3.1\IndexersWithStrings.pdb
+C:\Users\kirkv\source\repos\IndexersWithStrings\obj\Debug\netcoreapp3.1\IndexersWithStrings.genruntimeconfig.cache
